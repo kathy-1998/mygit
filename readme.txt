@@ -5,5 +5,4 @@ Git tracks changes of files.
 Study.
 Creating a new branch is quick and Simple.
 This a readme.txt.
-olllll,i' dev.
 
